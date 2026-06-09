@@ -50,10 +50,11 @@ const Hero = () => {
               <h1>that Deliver Results</h1>
             </div>
 
-            <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
-              Hi, I’m Adrian, a developer based in Croatia with a passion for
-              code.
-            </p>
+                      <p className="text-white-50 md:text-xl relative z-10 max-w-2xl">
+  Hi, I'm Joseph Sanusi, a Software Developer specializied in
+  mobile and web applications. I design, build, and deploy modern digital
+  solutions that combine great user experiences with scalable and secure technology.
+</p>
 
             <Button
               text="See My Work"
