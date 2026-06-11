@@ -66,8 +66,8 @@ const Hero = () => {
 
         {/* RIGHT: 3D Model or Visual */}
         <figure>
-          <div className="hero-3d-layout">
-            <HeroExperience />
+          <div className="hero-Image">
+              <img src="/images/Joseph_Sanusi.JPG" alt="Hero Picture" />
           </div>
         </figure>
       </div>
