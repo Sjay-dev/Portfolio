@@ -29,10 +29,10 @@ const words = [
 ];
 
 const counterItems = [
-  { value: 15, suffix: "+", label: "Years of Experience" },
-  { value: 200, suffix: "+", label: "Satisfied Clients" },
-  { value: 108, suffix: "+", label: "Completed Projects" },
-  { value: 90, suffix: "%", label: "Client Retention Rate" },
+  { value: 2, suffix: "+", label: "Years of Experience" },
+  { value: 4, suffix: "+", label: "Satisfied Clients" },
+  { value: 8, suffix: "+", label: "Completed Projects" },
+  { value: 100, suffix: "%", label: "Client Satisfaction Rate" },
 ];
 
 const logoIconsList = [
@@ -74,8 +74,8 @@ const logoIconsList = [
 const abilities = [
   {
     imgPath: "/images/seo.png",
-    title: "Quality Focus",
-    desc: "Delivering high-quality results while maintaining attention to every detail.",
+    title: "Quality Work",
+    desc: "Producing reliable, high quality work with careful attention to detail",
   },
   {
     imgPath: "/images/chat.png",
