@@ -183,15 +183,15 @@ const expCards = [
   },
 
    {
-    review: "Languanges: C, C++, Python, Java, Dart, Kotlin",
-    imgPath: "/images/Babcock1.png",
+    review: "Languanges: C++, Python, Spring Boot(Java), Kotlin, Node.js, React",
+    imgPath: "/images/Joseph.jpeg",
     logoPath: "/images/Sj.jpeg",
     title: "Freelance Developer",
-    date: "September 2023 - July 2025",
+    date: "January 2024 - Present",
     responsibilities: [
-      "Collaborated with Mobile and Backend Engineering teams to support the development, testing, and debugging of banking applications, contributing to API integration and feature validation.",
-      "Used programming logic to analyze system behavior, resolve data related issues, and improve application reliability",
-      "Practiced Data Structures and Algorithms (DSA), building strong foundations in problem-solving and backend system design principles",
+      "Develop and deliver Android applications with clean, user-focused UI and reliable performance.",
+      "Debug, maintain, and optimize existing applications to improve functionality and user experience.",
+      "Translate client requirements into scalable mobile and software solutions."
     ],
   },
 ];
