@@ -2,6 +2,8 @@ import { useState, useEffect } from "react";
 
 import { navLinks } from "../constants";
 
+import { FaGithub, FaLinkedin } from "react-icons/fa";
+
 const NavBar = () => {
   // track if the user has scrolled down the page
   const [scrolled, setScrolled] = useState(false);
@@ -49,9 +51,23 @@ const NavBar = () => {
     </div>
   </a>
 
-</div>
+  <div className="social-icons">
+    <a href="https://github.com/Sjay-dev"
+     target="_blank"
+     rel="noopener noreferrer"
+    >
+      <FaGithub />
+    </a>
 
-      </div>
+    <a href="https://www.linkedin.com/in/josephsanusi-dev"
+     target="_blank"
+     rel="noopener noreferrer"
+    >
+      <FaLinkedin />
+    </a>
+  </div>
+</div>
+</div>
     </header>
   );
 }
