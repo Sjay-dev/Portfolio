@@ -30,44 +30,42 @@ const words = [
 
 const counterItems = [
   { value: 2, suffix: "+", label: "Years of Experience" },
-  { value: 4, suffix: "+", label: "Satisfied Clients" },
+  { value: 4, suffix: "+", label: "Professional Certificates" },
   { value: 8, suffix: "+", label: "Completed Projects" },
   { value: 100, suffix: "%", label: "Client Satisfaction Rate" },
 ];
 
 const logoIconsList = [
+    {
+    imgPath: "/images/logos/docker.png",
+  },
+
   {
-    imgPath: "/images/logos/company-logo-1.png",
+    imgPath: "/images/logos/firebase.png",
   },
   {
-    imgPath: "/images/logos/company-logo-2.png",
+    imgPath: "/images/logos/github.png",
   },
   {
-    imgPath: "/images/logos/company-logo-3.png",
+    imgPath: "/images/logos/swagger.png",
   },
   {
-    imgPath: "/images/logos/company-logo-4.png",
+    imgPath: "/images/logos/oracle.png",
   },
   {
-    imgPath: "/images/logos/company-logo-5.png",
+    imgPath: "/images/logos/postman.png",
   },
   {
-    imgPath: "/images/logos/company-logo-6.png",
+    imgPath: "/images/logos/mongoDb.png",
   },
   {
-    imgPath: "/images/logos/company-logo-7.png",
+    imgPath: "/images/logos/vite.png",
   },
   {
-    imgPath: "/images/logos/company-logo-8.png",
+    imgPath: "/images/logos/vercel.png",
   },
   {
-    imgPath: "/images/logos/company-logo-9.png",
-  },
-  {
-    imgPath: "/images/logos/company-logo-10.png",
-  },
-  {
-    imgPath: "/images/logos/company-logo-11.png",
+    imgPath: "/images/logos/microsoft.png",
   },
 ];
 
