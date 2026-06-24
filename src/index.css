@@ -137,6 +137,8 @@ section {
       @apply mx-auto flex items-center justify-between;
     }
 
+
+
     .logo {
       @apply text-white-50 text-xl md:text-2xl font-semibold transition-transform duration-300 hover:scale-105;
     }
@@ -248,6 +250,8 @@ section {
         @apply size-5 xl:-translate-y-32 translate-y-0 animate-bounce group-hover:translate-y-0 transition-all duration-500;
       }
     }
+
+    
   }
 
   .card-border {

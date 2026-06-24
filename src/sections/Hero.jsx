@@ -56,11 +56,21 @@ const Hero = () => {
   solutions that combine great user experiences with scalable and secure technology.
 </p>
 
-            <Button
-              text="See My Work"
-              className="md:w-80 md:h-16 w-60 h-12"
-              id="counter"
-            />
+<div className="flex flex-col md:flex-row items-center gap-4">
+  <Button
+    text="See My Work"
+    className="md:w-80 md:h-16 w-60 h-12"
+    id="counter"
+  />
+
+  <Button
+    text="View My Resume"
+    className="md:w-80 md:h-16 w-60 h-12"
+    href="/resume/Sanusi_Joseph_Resume.pdf"
+    icon="/images/pdf.svg"
+  />
+</div>
+
           </div>
         </header>
 
